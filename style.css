@@ -1,0 +1,158 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+    .banner-image
+    {
+    background-image: url("./assets/img/Text.png");
+    background-size: cover;
+    }
+    .heading-yellow {
+        color:#ffd000 ;
+    }
+    .text
+    {
+    text-align: center;
+    margin-top: 90px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    }
+    /* body {
+    font-family: 'Josefin Sans', sans-serif;
+    } */
+    #image
+    {
+    margin-top: 100px;
+    }
+    .img-text
+    {
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    }
+    .design-text
+    {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    }
+    .mid-text
+    {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    }
+    .mid-btn
+    {
+    position: relative;
+    background-color: #ffd000;
+    font-size: 22px;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    top: 70px;  
+    left: 5px;
+    }
+    .featured-box {
+        border-radius: 50%;
+        border: 5px solid white;
+        min-height: 230px;
+    }
+    .featured-box p {
+        color: #fff;
+        font-weight: bold;
+        font-size: 36px;
+    }
+    .featured-box .pricing-head {
+        color: #ffc107;
+        font-size: 64px;
+        font-weight: bold;
+    }
+
+    .banner-section {
+        background: url(./assets/img/smallbanner.png) no-repeat center/cover;
+        
+    }
+
+    .M2-text
+    {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    }
+    .M3-text
+    {
+    
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    
+    }
+    .M3-btn
+    {
+    background-color: #ffd000;
+    font-size: 22px;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    
+    }
+    .banner-text
+    {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    }
+    .design-text
+    {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    }
+    
+    .search
+    {
+    font-family: 'Josefin Sans', sans-serif;
+    
+    }
+    .search-btn
+    {
+    position: relative;
+    background-color: #ffd000;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 20px;  
+    }
+    #footer
+    {
+    text-decoration: none;
+    list-style-type: none;
+    }
+    
+    .oriental-taste{
+        background: #303030 url(assets//img/oriental-bg.jpg) no-repeat top center/100% auto;
+        padding-top: 100px;
+    }
+    
+    .featured-food{
+        background:url(assets//img/M2.png) no-repeat top center/cover;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        min-height: 112vh;
+    }
+    .Chicken-grill
+    {
+        background: #303030 url(assets//img/000.png) no-repeat top center/100% ;
+        min-height: 50vh;
+        padding-top: 100px;
+    }
+    .bottom-design
+    {
+        background: url(assets//img/oriental-bg\ -\ Copy.jpg) no-repeat top center/105% ;
+        padding-top: 100px;
+        min-height: 80vh;
+    }
+.subscribe-section {
+    background: url(./assets/img/Design.png) no-repeat top center/cover;
+}
